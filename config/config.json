@@ -1,15 +1,21 @@
 {
   "development": {
+    "username": "tgm98",
+    "password": "1532",
     "database": "unit2_development",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "test": {
+    "username": "tgm98",
+    "password": "1532",
     "database": "unit2_test",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
   "production": {
+    "username": "tgm98",
+    "password": "1532",
     "database": "unit2_production",
     "host": "127.0.0.1",
     "dialect": "postgres"
